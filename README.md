@@ -5,7 +5,7 @@
 
 ## Books
 ### Programming & Design
-* [The Art of Game Design: A Book of Lenses: ](https://github.com/media-lib/prog_lib/blob/master/general/Jesse%20Schell%20-%20The%20Art%20of%20Game%20Design%20A%20Book%20of%20Lenses%20.pdf)
+* [The Art of Game Design: A Book of Lenses: Jesse Schell](https://github.com/media-lib/prog_lib/blob/master/general/Jesse%20Schell%20-%20The%20Art%20of%20Game%20Design%20A%20Book%20of%20Lenses%20.pdf)
 * [Game Programming Patterns: Robert Nystrom](https://gameprogrammingpatterns.com/contents.html)
 
 ### Marketing & Media
