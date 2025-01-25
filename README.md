@@ -7,6 +7,7 @@
 * ["The Door Problem": Liz England](https://lizengland.com/blog/2014/04/the-door-problem/)
 * [I Have No Words & I Must Design by Greg Costikyan](http://www.costik.com/nowords2002.pdf)
 * [Design Pillars: The Core of Your Game by Max Pears](https://www.maxpears.com/2017/09/02/design-pillars-the-core-of-your-game/)
+* [Waiting For Vroodot: Personal Blog](https://vroodot.github.io/Waiting-For-Vroodot)
 ### Marketing & Media
 * [60 Game Marketing Mistakes: Chris Zukowski](https://howtomarketagame.com/60mm)
 
