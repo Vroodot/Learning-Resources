@@ -24,4 +24,5 @@
   
 
 ## Other Collections
+* [Learn X in Y Minutes: Coding Syntax Masterlist](https://learnxinyminutes.com/)
 * [Large Google Doc of Game Design Resources](https://docs.google.com/spreadsheets/d/1QhFyPfYSjHv7PjibGrslF3mNW_CIDXWv9o-iQgLbu1o/edit?gid=1563775622#gid=1563775622)
