@@ -1,7 +1,4 @@
-# Learning-Resources
-## Free Books, Lectures, Courses on Game Design and Godot
-**Additions are being made as I discover them**
-**(If any of your resources are listed here and you'd like them to be removed, please let me know and I will do so)**
+# Game-Design-Learning-Resources
 
 ## Books, Blogs, Articles
 ### Programming & Design
