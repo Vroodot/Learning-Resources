@@ -1,13 +1,16 @@
 # Game Design Learning Resources
 
 ## Books, Blogs, Articles
-### Programming & Design
+### Game Design
 * [The Art of Game Design: A Book of Lenses: Jesse Schell](https://github.com/media-lib/prog_lib/blob/master/general/Jesse%20Schell%20-%20The%20Art%20of%20Game%20Design%20A%20Book%20of%20Lenses%20.pdf)
 * [Game Programming Patterns: Robert Nystrom](https://gameprogrammingpatterns.com/contents.html)
 * ["The Door Problem": Liz England](https://lizengland.com/blog/2014/04/the-door-problem/)
 * [I Have No Words & I Must Design by Greg Costikyan](http://www.costik.com/nowords2002.pdf)
 * [Design Pillars: The Core of Your Game by Max Pears](https://www.maxpears.com/2017/09/02/design-pillars-the-core-of-your-game/)
+* [MDA Framework](https://users.cs.northwestern.edu/~hunicke/MDA.pdf)
 * [Waiting For Vroodot: Personal Blog](https://vroodot.github.io/Waiting-For-Vroodot)
+
+  
 ### Marketing & Media
 * [60 Game Marketing Mistakes: Chris Zukowski](https://howtomarketagame.com/60mm)
 
