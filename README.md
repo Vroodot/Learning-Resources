@@ -37,8 +37,8 @@
 * [Harvard CS50P](https://cs50.harvard.edu/python/2022/)
 
 ## Read The Docs
-### [Godot 4.3](https://docs.godotengine.org/en/stable/)
-### [Python Standard Library](https://docs.python.org/3/library/index.html)
+* [Godot 4.3](https://docs.godotengine.org/en/stable/)
+* [Python Standard Library](https://docs.python.org/3/library/index.html)
 
 ## Other Collections
 * [Learn X in Y Minutes: Coding Syntax Masterlist](https://learnxinyminutes.com/)
