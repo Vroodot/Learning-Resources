@@ -35,6 +35,11 @@
 
 ### Python
 * [Harvard CS50P](https://cs50.harvard.edu/python/2022/)
+
+## Read The Docs
+### [Godot 4.3](https://docs.godotengine.org/en/stable/)
+### [Python Standard Library](https://docs.python.org/3/library/index.html)
+
 ## Other Collections
 * [Learn X in Y Minutes: Coding Syntax Masterlist](https://learnxinyminutes.com/)
 * [Large Google Doc of Game Design Resources](https://docs.google.com/spreadsheets/d/1QhFyPfYSjHv7PjibGrslF3mNW_CIDXWv9o-iQgLbu1o/edit?gid=1563775622#gid=1563775622)
