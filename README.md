@@ -22,7 +22,13 @@
 * [Aarimous](https://www.youtube.com/@Aarimous)
 * [Bacon and Games](https://www.youtube.com/@baconandgames)
 * [Bitlytic](https://www.youtube.com/@Bitlytic)
-  
+
+## Free Courses
+### GDScript
+* ✔️ [Learn GDScript From Zero](https://gdquest.github.io/learn-gdscript/) 
+
+### Game Design
+* [HP Garage: A Complete Guide To Game Design](https://www.edx.org/learn/game-design/hp-a-complete-guide-to-game-design)
 
 ## Other Collections
 * [Learn X in Y Minutes: Coding Syntax Masterlist](https://learnxinyminutes.com/)
