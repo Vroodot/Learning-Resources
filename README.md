@@ -1,4 +1,4 @@
-# Game-Design-Learning-Resources
+# Game Design Learning Resources
 
 ## Books, Blogs, Articles
 ### Programming & Design
