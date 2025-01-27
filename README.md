@@ -18,7 +18,8 @@
 ### Keynotes, Conventions, and Conversations
 * [GDC](https://www.youtube.com/@Gdconf)
 * [Full Time Game Dev Podcast](https://www.youtube.com/playlist?list=PLevEUceJDgAosPCrttUVhhhs8QDbXogps)
-* 
+
+  
 ### Godot: Includes Devlogs, Tutorials, and Podcast
 * [Heartbeast](https://www.youtube.com/@uheartbeast)
 * [Godotneers](https://www.youtube.com/@godotneers)
