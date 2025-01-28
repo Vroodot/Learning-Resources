@@ -14,6 +14,10 @@
 ### Marketing & Media
 * [60 Game Marketing Mistakes: Chris Zukowski](https://howtomarketagame.com/60mm)
 
+### Programming
+* **Python**
+  * [Automate The Boring Stuff 2e by Al Sweigart](https://automatetheboringstuff.com/2e/chapter0/)
+
 ## YouTube
 ### Keynotes, Conventions, and Conversations
 * [GDC](https://www.youtube.com/@Gdconf)
