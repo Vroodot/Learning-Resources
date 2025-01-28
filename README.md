@@ -8,7 +8,6 @@
 * [I Have No Words & I Must Design by Greg Costikyan](http://www.costik.com/nowords2002.pdf)
 * [Design Pillars: The Core of Your Game by Max Pears](https://www.maxpears.com/2017/09/02/design-pillars-the-core-of-your-game/)
 * [MDA Framework](https://users.cs.northwestern.edu/~hunicke/MDA.pdf)
-* [Waiting For Vroodot: Personal Blog](https://vroodot.github.io/Waiting-For-Vroodot)
 
   
 ### Marketing & Media
