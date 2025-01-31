@@ -22,8 +22,10 @@
 * [GDC](https://www.youtube.com/@Gdconf)
 * [Full Time Game Dev Podcast](https://www.youtube.com/playlist?list=PLevEUceJDgAosPCrttUVhhhs8QDbXogps)
 
+### General Game Design, Marketing, & Productivity
+* [Edward Labarca](https://www.youtube.com/@EdwardLabarcaDev)
   
-### Godot: Includes Devlogs, Tutorials, and Podcast
+### Godot Specific: Includes Devlogs, Tutorials, and Podcast
 * [Heartbeast](https://www.youtube.com/@uheartbeast)
 * [Godotneers](https://www.youtube.com/@godotneers)
 * [Aarimous](https://www.youtube.com/@Aarimous)
