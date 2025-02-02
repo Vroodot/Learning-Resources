@@ -21,6 +21,7 @@
 ### Keynotes, Conventions, and Conversations
 * [GDC](https://www.youtube.com/@Gdconf)
 * [Full Time Game Dev Podcast](https://www.youtube.com/playlist?list=PLevEUceJDgAosPCrttUVhhhs8QDbXogps)
+* [Game Engineering Podcast](https://www.youtube.com/@GameEngineeringPodcast)
 
 ### General Game Design, Marketing, & Productivity
 * [Edward Labarca](https://www.youtube.com/@EdwardLabarcaDev)
